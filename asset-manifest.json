@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/portfolio-hk/static/css/main.c346bcc5.css",
+    "main.js": "/portfolio-hk/static/js/main.1af9d458.js",
+    "static/media/harshimage.jpg": "/portfolio-hk/static/media/harshimage.40672bcb496bc49163ea.jpg",
+    "static/media/diploma-img.jpg": "/portfolio-hk/static/media/diploma-img.00d38855314dd1119235.jpg",
+    "static/media/graduation-cap.jpg": "/portfolio-hk/static/media/graduation-cap.aff26f5cadc8831156ee.jpg",
+    "static/media/books-10-12.jpg": "/portfolio-hk/static/media/books-10-12.ddcf04c4cc6bf747b39b.jpg",
+    "static/media/futurefinders.jpeg": "/portfolio-hk/static/media/futurefinders.f1daa744055bdafc5401.jpeg",
+    "index.html": "/portfolio-hk/index.html",
+    "main.c346bcc5.css.map": "/portfolio-hk/static/css/main.c346bcc5.css.map",
+    "main.1af9d458.js.map": "/portfolio-hk/static/js/main.1af9d458.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c346bcc5.css",
+    "static/js/main.1af9d458.js"
+  ]
+}
